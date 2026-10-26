@@ -1,0 +1,8 @@
+data/
+backend/models/
+results/
+*.keras
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+.venv/
